@@ -1,1 +1,1 @@
-# config_repo
+# Configuration repository for Spring Boot's microservices
