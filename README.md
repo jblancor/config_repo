@@ -1,8 +1,18 @@
 # Configuration repository for Spring Boot's microservices
 
-Execute all projects with: gradle bootRun.
+This project is related to Microservices project.
 
 Set config-server configuration. Edit application.yml or use env variables for github repository.
+
+Execute all projects with: gradle bootRun.
+
+Order:
+- Registry
+- Config
+- API gateway
+- Greetings
+- Middle
+
 
 
 Test:
